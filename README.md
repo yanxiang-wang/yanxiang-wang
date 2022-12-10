@@ -4,6 +4,10 @@
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yanxiang-wang.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
+
+<a href="https://app.daily.dev/xiangchen2011"><img src="https://api.daily.dev/devcards/cfabb4dd86d64ecf8c9da1f74d686f6e.png?r=sf0" width="400" alt="xiangchen2011's Dev Card"/></a>
+
 <!--
 **yanxiang-wang/yanxiang-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
