@@ -2,8 +2,9 @@
 
 🔭 I’m currently working on IoT.
 
+### Languages and Tools
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yanxiang-wang.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![](https://skillicons.dev/icons?i=py,rust,arduino,bash,pytorch,react,vue,latex,ts,docker,r,postman&theme=light)
 
 
 <!--
