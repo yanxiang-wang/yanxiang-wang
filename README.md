@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on IoT.
+🔭 I’m currently working on Internet of Things (IoT).
 
 ### Languages and Tools
 
-![](https://skillicons.dev/icons?i=py,rust,arduino,bash,pytorch,react,vue,latex,ts,docker,r,postman&theme=light)
-
+![skills](https://skillicons.dev/icons?i=py,rust,ts,r,latex,bash,pytorch,react,vue,css,docker,arduino,postman&theme=light)
 
 <!--
 **yanxiang-wang/yanxiang-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
