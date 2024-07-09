@@ -5,6 +5,8 @@
 ### Languages and Tools
 
 ![skills](https://skillicons.dev/icons?i=py,rust,ts,r,latex,bash,pytorch,react,vue,css,docker,arduino,postman&theme=light)
+### Visit count
+![:name](https://count.getloli.com/get/@:yanxiang-wang?theme=rule34)
 
 <!--
 **yanxiang-wang/yanxiang-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
